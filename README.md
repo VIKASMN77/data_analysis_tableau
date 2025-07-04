@@ -14,9 +14,9 @@ The dashboard combines used car listing data from various sources. It allows sli
 Key visualizations include:
 
 Sales price trends over time
-Analysis of average pricing, mileage by fuel type, transmission
-Used car volume by dealer type, owner types
-Correlation analysis between pricing factors
-Forecasting of future pricing based on trendsnalysis_tableau
+Analysis of average pricing, mileage by fuel type, transmission.
+Used car volume by dealer type, owner types.
+Correlation analysis between pricing factors.
+Forecasting of future pricing based on trendsnalysis.
 
 ![dashbord](https://github.com/user-attachments/assets/79ae6d28-2e29-4b30-a2ad-46a1c8eee480)
